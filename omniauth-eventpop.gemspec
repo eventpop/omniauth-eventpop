@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors  = ['Metwara Narksook']
   s.email    = ['hybridknight@gmail.com']
   s.summary  = 'Eventpop OAuth2 Strategy for OmniAuth'
-  s.homepage = 'https://github.com/hybridknight/omniauth-eventpop'
+  s.homepage = 'https://github.com/eventpop/omniauth-eventpop'
   s.license  = 'MIT'
 
   s.files         = `git ls-files`.split("\n")
